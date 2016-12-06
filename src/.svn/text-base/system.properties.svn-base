@@ -1,0 +1,16 @@
+################# dabiget 配置 ############################# 
+#toDabigate为总控开关
+toDabigate=true
+port=30000
+ip=172.31.108.213
+#false:本地（小端）字节序 true:网络（大端）字节序
+order=false 
+
+################# db 配置 ############################
+#DbMoudle为总控开关
+DbMoudle=true
+sqlServer=true
+mySql=false
+oracle=false
+#执行DB间隔
+ interval=15000

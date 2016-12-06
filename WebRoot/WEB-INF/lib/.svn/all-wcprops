@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib
+END
+mina-integration-ognl-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-integration-ognl-2.0.7.jar
+END
+proxool-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/proxool-0.9.1.jar
+END
+jzlib-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/jzlib-1.1.1.jar
+END
+log-compile.jar
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/log-compile.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.5.jar
+END
+mina-filter-compression-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-filter-compression-2.0.7.jar
+END
+slf4j-log4j12-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/slf4j-log4j12-1.5.8.jar
+END
+javassist-3.11.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar
+END
+proxool-cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/proxool-cglib.jar
+END
+sqljdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/sqljdbc.jar
+END
+spring-2.5.6.SEC03.jar
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/spring-2.5.6.SEC03.jar
+END
+xstream-hibernate-1.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/xstream-hibernate-1.4.5.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/ojdbc14.jar
+END
+xstream-1.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/xstream-1.4.5.jar
+END
+mina-statemachine-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-statemachine-2.0.7.jar
+END
+ognl-3.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/ognl-3.0.5.jar
+END
+mina-transport-apr-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-transport-apr-2.0.7.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/log4j-1.2.17.jar
+END
+jcl-over-slf4j-1.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.6.6.jar
+END
+xbean-spring-3.11.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/xbean-spring-3.11.1.jar
+END
+mina-core-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-core-2.0.7.jar
+END
+xstream-benchmark-1.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/xstream-benchmark-1.4.5.jar
+END
+mina-example-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-example-2.0.7.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+commons-logging-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/commons-logging-1.0.3.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/commons-lang-2.6.jar
+END
+mina-integration-beans-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-integration-beans-2.0.7.jar
+END
+tomcat-apr-5.5.23.jar
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/tomcat-apr-5.5.23.jar
+END
+slf4j-api-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/slf4j-api-1.7.5.jar
+END
+slf4j-api-1.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/slf4j-api-1.6.6.jar
+END
+mysql-connector-java-5.1.10-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar
+END
+mina-integration-xbean-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-integration-xbean-2.0.7.jar
+END
+javassist-3.7.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/javassist-3.7.ga.jar
+END
+mina-integration-jmx-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/ba/!svn/ver/24702/trunk/ZHLWPT/Development_library/%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B/4%E6%BA%90%E4%BB%A3%E7%A0%81/convergeTransmit/WebRoot/WEB-INF/lib/mina-integration-jmx-2.0.7.jar
+END
